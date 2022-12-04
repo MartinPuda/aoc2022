@@ -31,10 +31,8 @@
 
 ;;;;;
 
-(defn testy []
+(defn tests []
   (assert (= (part1 data) 7737))
   (assert (= (part2 data) 2697)))
 
-(testy)
-
-
+(tests)
