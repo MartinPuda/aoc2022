@@ -2,6 +2,12 @@
 
 Advent of Code 2022 in Clojure
 
+Days:
+
+1,2,3,4
+
+6
+
 
 ## License
 
